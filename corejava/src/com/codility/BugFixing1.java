@@ -31,6 +31,9 @@ public class BugFixing1 {
    	System.out.println(new BugFixing1().solution("kk"));
     System.out.println(new BugFixing1().solution("change in first"));
     
+    System.out.println(new BugFixing1().solution("space yes second"));
+    
+    
     
 
 
