@@ -28,6 +28,7 @@ public class BugFixing1 {
    	System.out.println(new BugFixing1().solution("hello"));
    	System.out.println(new BugFixing1().solution("parameter"));
    	System.out.println(new BugFixing1().solution("ok"));
+   	System.out.println(new BugFixing1().solution("kk"));
    
    	
    }
