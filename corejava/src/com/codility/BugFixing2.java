@@ -32,8 +32,8 @@ public class BugFixing2 {
 		//int[] A = {2, 4, 6, 7};
 		//int[] B = {2, 1, 1, 7};
 		int[] A = {};
-		int[] B = {2,3,6,7};
-		System.out.println(new BugFixing2().solution(A, B));
+		int[] C = {2,3,6,7};
+		System.out.println(new BugFixing2().solution(A, C));
 	}
 	
 }
